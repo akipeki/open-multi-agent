@@ -271,6 +271,10 @@ The architecture draws from common multi-agent orchestration patterns seen in mo
 | Team / sub-agent | `Team` + `MessageBus` | Inter-agent communication and shared state |
 | Task scheduling | `TaskQueue` | Topological task scheduling with dependency resolution |
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=JackChen-me/open-multi-agent&type=Date)](https://star-history.com/#JackChen-me/open-multi-agent&Date)
+
 ## License
 
 MIT
